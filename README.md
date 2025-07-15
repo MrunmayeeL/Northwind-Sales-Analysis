@@ -16,16 +16,16 @@ A data analysis project using the Northwind Traders database to extract business
 ## Project Structure
 
 northwind-sales-analysis/
-├── data/ # CSV files used for populating database
-├── sql/
-│ ├── create_tables.sql # Table creation script
-│ ├── alter_constraints.sql # Constraints (foreign keys etc.)
-│ └── analysis_queries.sql # All business analysis SQL queries
-├── notebooks/
-│ └── northwind_analysis.ipynb # Python + SQL analysis notebook
-├── visuals/ # Exported charts and figures
-├── README.md
-└── requirements.txt # Python dependencies
+── data/ # CSV files used for populating database
+── sql/
+    ── create_tables.sql # Table creation script
+    ── alter_constraints.sql # Constraints (foreign keys etc.)
+    ── analysis_queries.sql # All business analysis SQL queries
+── notebooks/
+    ── northwind_analysis.ipynb # Python + SQL analysis notebook
+── visuals/ # Exported charts and figures
+── README.md
+── requirements.txt # Python dependencies
 
 
 ---
