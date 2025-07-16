@@ -43,15 +43,23 @@ northwind-sales-analysis/
 
 - **Top Customers by Revenue**  
   Identifies customers who contributed the highest total sales.
+  <img width="1912" height="942" alt="image" src="https://github.com/user-attachments/assets/a5d4a50c-00a7-479a-8806-a2786f403e43" />
+
 
 - **Revenue by Country**  
   Aggregates total revenue per country to highlight key regions.
+  <img width="1246" height="885" alt="image" src="https://github.com/user-attachments/assets/b64fd24f-8c55-4316-894a-d119f35c7dc5" />
+
 
 - **Number of Orders per Customer**  
   Evaluates order frequency by customer to identify purchase behavior.
+  <img width="1748" height="747" alt="image" src="https://github.com/user-attachments/assets/ea0514d1-21a8-40f7-b983-0a9f1be54742" />
+
 
 - **Average Order Value per Customer**  
   Computes average order value per customer for sales efficiency.
+  <img width="1743" height="757" alt="image" src="https://github.com/user-attachments/assets/667d5877-e188-4546-95f6-f66b4e562690" />
+
 
 ---
 
