@@ -68,14 +68,23 @@ northwind-sales-analysis/
 - **Orders Handled per Employee**  
   Ranks employees based on the number of orders managed.
 
+<img width="1237" height="733" alt="image" src="https://github.com/user-attachments/assets/312bc908-cde9-41d9-af5f-c6e0731295da" />
+
+
 - **Revenue Generated per Employee**  
   Sums total sales associated with each employee.
+
+  <img width="1243" height="748" alt="image" src="https://github.com/user-attachments/assets/6d13d22d-1970-4509-b616-6edd96a45503" />
 
 - **Customers per Employee**  
   Tracks unique customers handled by each employee.
 
+  <img width="1247" height="755" alt="image" src="https://github.com/user-attachments/assets/026d48dd-b7f3-4cd8-82c7-a0ee0f8ebfef" />
+
 - **Employee Location Distribution**  
   Summarizes employees by region or city.
+
+<img width="1236" height="750" alt="image" src="https://github.com/user-attachments/assets/8d9e2a11-4a66-4699-b669-648d005a8c37" />
 
 ---
 
@@ -83,15 +92,22 @@ northwind-sales-analysis/
 
 - **Top 10 Products by Revenue**  
   Highlights best-selling products by total revenue.
+  <img width="1495" height="738" alt="image" src="https://github.com/user-attachments/assets/7c2054b5-f4a7-4782-bfc9-621aaffe8da3" />
+
 
 - **Revenue by Product Category**  
   Analyzes category-level sales performance.
+  <img width="870" height="837" alt="image" src="https://github.com/user-attachments/assets/b5568e0d-6eb8-4ef8-add3-3910abc9c9b3" />
+
 
 - **Average Unit Price per Category**  
   Compares average pricing trends within each product category.
+  <img width="1243" height="747" alt="image" src="https://github.com/user-attachments/assets/0ae9608f-5e7f-411a-b731-db87d42b4476" />
 
-- **Product Stock vs. Sales**  
-  Visual comparison of inventory levels and units sold.
+- **Product supply vs. Demand**  
+  Visual comparison of inventory bought and units sold.
+  <img width="1493" height="745" alt="image" src="https://github.com/user-attachments/assets/5dc3170b-f5ff-45f0-9c42-4cc4c04b6601" />
+
 
 ---
 
