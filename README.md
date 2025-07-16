@@ -21,11 +21,11 @@ northwind-sales-analysis/
 
 ── sql/
 
-   ── create_tables.sql # Table creation script 
+   ─ create_tables.sql # Table creation script 
     
-   ── alter_constraints.sql # Constraints (foreign keys etc.) 
+   ─ alter_constraints.sql # Constraints (foreign keys etc.) 
     
-   ── analysis_queries.sql # All business analysis SQL queries
+   ─ analysis_queries.sql # All business analysis SQL queries
     
 ── notebooks/
 
