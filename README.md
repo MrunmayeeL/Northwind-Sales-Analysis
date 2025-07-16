@@ -20,13 +20,11 @@ northwind-sales-analysis/
 ── data/ # CSV files used for populating database
 
 ── sql/
-
-    ── create_tables.sql # Table creation script
-    ── alter_constraints.sql # Constraints (foreign keys etc.)
+    ── create_tables.sql # Table creation script 
+    ── alter_constraints.sql # Constraints (foreign keys etc.) 
     ── analysis_queries.sql # All business analysis SQL queries
     
 ── notebooks/
-
     ── northwind_analysis.ipynb # Python + SQL analysis notebook
     
 ── visuals/ # Exported charts and figures
